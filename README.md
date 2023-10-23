@@ -1,4 +1,4 @@
-<div id="badges" align ="center">
+![image](https://github.com/CookieNyam/CookieNyam/assets/148221208/781562ae-225e-4201-b4c2-f7e94a946d30)<div id="badges" align ="center">
   <a href= "https://vk.com/sleepychery">
     <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
@@ -18,4 +18,7 @@
 
 ### :woman_technologist: Обо мне: 
 
+- :space_invader: факт обо мне
+- :zzz: факт обо мне
+- :butterfly: факт обо мне
 
